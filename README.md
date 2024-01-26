@@ -1,2 +1,2 @@
-# zoomcamp_homework
+# DE Zoomcamp Homework
 https://github.com/DataTalksClub/data-engineering-zoomcamp/
